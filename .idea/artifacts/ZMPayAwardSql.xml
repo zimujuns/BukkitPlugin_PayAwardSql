@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ZMPayAwardSql">
+    <output-path>E:/1.[我的世界]Minecraft/[插件测试服务器]Spigot-1.12.2/plugins</output-path>
+    <root id="archive" name="ZMPayAwardSql.jar">
+      <element id="module-output" name="ZMPayAwardSql" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="library" level="project" name="mysql-connector-java-8.0.21" />
+    </root>
+  </artifact>
+</component>

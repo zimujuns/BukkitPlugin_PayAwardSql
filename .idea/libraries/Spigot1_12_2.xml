@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Spigot1.12.2">
+    <CLASSES>
+      <root url="jar://E:/1.[我的世界]Minecraft/[插件测试服务器]Spigot-1.12.2/Spigot1.12.2.jar!/" />
+      <root url="jar://E:/1.[我的世界]Minecraft/[插件测试服务器]Spigot-1.12.2/plugins/MCRMB-2.0b16-ee14a41.jar!/" />
+      <root url="jar://E:/1.[我的世界]Minecraft/[插件测试服务器]Spigot-1.12.2/plugins/HolographicDisplays.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/1.[我的世界]Minecraft/[插件测试服务器]Spigot-1.12.2/Spigot1.12.2.jar!/" />
+    </SOURCES>
+  </library>
+</component>
